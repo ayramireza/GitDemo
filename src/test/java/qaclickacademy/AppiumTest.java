@@ -24,5 +24,11 @@ public class AppiumTest {
 		System.out.println("IOS Apps");
 	}
 	
+	@Test 
+	public void Nuevo(){
+		System.out.println("IOS Apps");
+		System.out.println("IOS Apps");
+		System.out.println("IOS Apps");
+	}
 
 }
